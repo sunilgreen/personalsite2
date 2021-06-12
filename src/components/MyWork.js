@@ -30,7 +30,7 @@ export default function MyWork({id}) {
                     <li>POL 235 Rich and Poor Nations </li>
                     <li>POL 300 Political Science Research</li>
                     <li>POL 373 Campaigns and Elections</li>
-                    <li>POL 461 Constitutional Law</li>
+                    <li>POL 461 Consitutional Law</li>
                 </ul>        
             </Col>
 
@@ -59,7 +59,7 @@ export default function MyWork({id}) {
                 <img id="urconvey" src={PISIG}></img>
                 <h4 className="sectiontitle">Pi Sigma Alpha Delta Omega</h4>
                 <p className="bodytext">I serve as the outreach coordinator for Purdue's Pi Sigma Alpha Chapter. 
-                                    More information about the organization can be found on our <a href="https://www.instagram.com/purdue_pisig/">Instagram.</a>
+                                    More information about the organization can be found on our <a href="https://www.instagram.com/purdue_pisig/">instagram.</a>
                 </p>
 
                 <br/>
@@ -92,7 +92,7 @@ export default function MyWork({id}) {
                 <img id="comingsoon" src={PROJECTX}></img> 
                 <p className="bodytext">Helped Purdue innovate ideas for managaing a school year in COVID through the 
                                         Krannert School of Business' Project X Case Competition. Our team placed third
-                                        in our category. </p>
+                                        in our category </p>
                
             </Col>
                 
