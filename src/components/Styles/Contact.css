@@ -1,0 +1,46 @@
+#title {
+    text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 275%;
+    padding-top: 5%;
+    padding-bottom: none;
+    margin-bottom: none;
+}
+
+#maintext {
+    text-align: center;
+
+ 
+}
+
+#textarearow {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#messagefield {
+    resize: none;
+    width: 50%;
+    height: 40%;
+
+}
+
+#submitbuttonrow {
+    padding-top: 1%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+
+#submitbutton {
+    border-radius: 5px;
+    margin-bottom: 20%;
+    width: 20%;
+    background-color: dodgerblue;
+    color: black;
+    border-color: black;
+
+}
