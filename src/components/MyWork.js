@@ -98,7 +98,7 @@ export default function MyWork({id}) {
                 <img id="comingsoon" src={PORK}></img> 
                 <h3 className="subtitle">Identifying Pork Barrel Legislation Using Machine Learning</h3>
                 <p className="bodytext">For an undergraduate capstone project I am attempting to create a machine learning classfier that can help automate the indentificaiton of potentially pork barreled projects in an appropriations act.
-                    The project is still in the works, but the source code can be found here <a href="https://github.com/sunilgreen/pork">here</a>. Upon completion of the paper, the project will be fully open-sourced
+                    The project is still in the works, but the source code can be found <a href="https://github.com/sunilgreen/pork">here</a>. Upon completion of the paper, the project will be fully open-sourced
                     and contributions from other developers and researchers will be accepted.</p>
                
 
