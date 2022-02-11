@@ -30,7 +30,7 @@ export default function MyWork({id}) {
                     <li>CS 373 Data Mining and Machine Learning</li>
                     <li>POL 231 U.S. Foreign Policy </li>
                     <li>POL 235 Rich and Poor Nations </li>
-                    <li>POL 300 Political Science Research</li>
+                    <li>POL 300 Introduction to Political Analysis</li>
                     <li>POL 373 Campaigns and Elections</li>
                     <li>POL 461 Consitutional Law I</li>
                     <li>POL 462 Consitutional Law II</li>
