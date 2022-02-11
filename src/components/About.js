@@ -13,8 +13,8 @@ export default function About({id}) {
                 
                 <p className="maintext">
                     I'm a computer science and political science major at Purdue University.
-                    In fall 2021, I'll be a rising senior, and incoming RA to Purdue's Hawkins
-                    Residence Hall. This site contains past work I've done and ongoing projects
+                    I graduate in May 2022, and have served as an RA to Purdue's Hawkins
+                    Residence Hall for almost 2 academic years. This site contains past work I've done and ongoing projects
                     I'm a part of.
                 </p>
                 </Col>
